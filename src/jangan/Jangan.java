@@ -17,6 +17,7 @@ public class Jangan {
     public static void main(String[] args) {
         System.out.println("hello");
         System.out.println("how r u?");
+        System.out.println("not okey");
     }
     
 }
